@@ -1,0 +1,70 @@
+.container {
+    justify-content: center;
+    display: flex;
+    gap: 10px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 4rem;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+.color-title {
+    text-align: center;
+    font-weight: normal;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.orange {
+    color: orange;
+}
+
+.green {
+    color: green;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.black {
+    color: black;
+}
+
+.purple {
+    color: purple;
+}
+
+.pink {
+    color: pink;
+}
+
+.turquoise {
+    color: turquoise;
+}
+
+.gray {
+    color: gray;
+}
+
+
+
+
